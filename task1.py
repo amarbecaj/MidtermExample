@@ -1,6 +1,6 @@
 """
 ===================   TASK 1   ====================
-* Name: Can String Be Float
+* Name: Can String Be Floataaa
 *
 * Write a function `can_string_be_float` that will
 * check whether the passed string value can be
